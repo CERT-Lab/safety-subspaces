@@ -1,5 +1,6 @@
 # Safety Subspaces are Not Distinct: A Fine-Tuning Case Study
 
+Code for the paper [Safety Subspaces are Not Distinct: A Fine-Tuning Case Study](https://arxiv.org/abs/2505.14185)
 ## Introduction
 
 Large Language Models (LLMs) rely on safety alignment to produce socially acceptable responses. This is typically achieved through instruction tuning and reinforcement learning from human feedback. However, this alignment is known to be brittle: further fine-tuning, even on benign or lightly contaminated data, can degrade safety and reintroduce harmful behaviors. A growing body of work suggests that alignment may correspond to identifiable geometric directions in weight space, forming subspaces that could, in principle, be isolated or preserved to defend against misalignment.

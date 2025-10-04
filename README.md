@@ -52,3 +52,17 @@ Run:
 ```bash
 python exp-4-activation_spaces/activation_space.py
 ```
+
+
+## Citation
+
+If you use our work, please cite us:
+
+```
+@article{ponkshe2025safety,
+  title={Safety Subspaces are Not Distinct: A Fine-Tuning Case Study},
+  author={Ponkshe, Kaustubh and Shah, Shaan and Singhal, Raghav and Vepakomma, Praneeth},
+  journal={arXiv preprint arXiv:2505.14185},
+  year={2025}
+}
+```
